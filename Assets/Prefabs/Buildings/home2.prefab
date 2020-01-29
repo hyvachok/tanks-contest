@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1112472703477133407}
   m_Layer: 0
-  m_Name: home2 1
+  m_Name: home2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 7430538926899651431}
   - component: {fileID: 7880827944838641588}
   - component: {fileID: 1476320360332352324}
+  - component: {fileID: 2221452108578126182}
   m_Layer: 0
   m_Name: default
   m_TagString: Untagged
@@ -109,3 +110,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &2221452108578126182
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7577129836183594961}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.6000009, y: 3.0999997, z: 2.500001}
+  m_Center: {x: 4.3655787e-11, y: 1.5499998, z: -0.049999975}
